@@ -1,5 +1,5 @@
 -
--
+- 资料均使用 123 云盘传输，登录后 100 MB 以下的文件均可以免客户端下载。
 -
 - ## 数学基础
 -
@@ -7,5 +7,6 @@
 - ## 凸优化
 -
 - 资料：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
+- [[Test]]
 -
 -
