@@ -1,0 +1,11 @@
+-
+-
+-
+- ## 数学基础
+-
+-
+- ## 凸优化
+-
+- 资料：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
+-
+-
