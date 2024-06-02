@@ -4,13 +4,16 @@
 - ## 数学基础
 -
 -
-- ## 凸优化
+- ## 统计学基础
 -
+-
+- ## 凸优化
+- 课程资源：
 - 资料：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
 -
 -
 - ## 机器学习
 - 课程资源：[Stanford CS229 bilibili 视频](https://www.bilibili.com/video/BV1JE411w7Ub/)。
--
+- 知识点见 [[机器学习]]。
 -
 -
