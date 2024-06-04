@@ -1,3 +1,7 @@
 :root {
   --ls-font-family: LXGW WenKai, Helvetica Neue, sans-serif;
 }
+.admonitionblock .is-paragraph {
+    size: 12px;
+    font-size: 16px;
+}
