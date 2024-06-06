@@ -1,4 +1,4 @@
-- Logistic Regression 回归是 [[分类算法]] 中的一种学习算法
+- Logistic Regression 回归是 [[机器学习]] 中的一种学习算法
 - **定义**(Logistic Regression). 给定 $M$ 个样本 $(x^{(1)}, y^{(1)}),\cdots, (x^{(M)}, y^{(M)})$，其中 $y^{(i)} \in \{0,1\}$， 拟合出如下 $y$ 与 $x$ 之间的关系
   
   $$ h_{\theta} = \frac{1}{1 + e^{- \theta^T x}}, $$
@@ -6,7 +6,7 @@
   $h_{\theta}$ 是 [[Sigmoid 函数]]。
 -
 - ## 极大似然估计
-- 类似于 [[线性回归]]，我们首先要明确怎样的 $\theta$ 能够最符合要求，即进行最大 [[似然]] 估计。
+- 类似于 [[线性回归]]，我们首先要明确怎样的 $\theta$ 能够最符合要求，即进行最大 [[似然函数]] 估计。
 - **引理**. Logistic Regression 中满足
   
   $$ P(y|x; \theta) = [h_{\theta}(x)]^y [(1 - h_{\theta}(x))]^{1-y} $$
