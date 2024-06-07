@@ -9,12 +9,8 @@
 - 计算数学：[[数值分析]]、[[数值代数]]、[[微分方程数值解]]
 - 微分方程：[[常微分方程]]、[[偏微分方程]]
 - 统计学：[[概率论]]、[[数理统计]]、[[多元统计分析]]
-- ## 凸优化
-- 课程资源：
-- 资料：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
--
--
-- ## 机器学习
-- 具体见 [[机器学习]]。
+- ## 前沿应用数学
+- 凸优化：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
+- 机器学习：[[机器学习]]。
 -
 -
