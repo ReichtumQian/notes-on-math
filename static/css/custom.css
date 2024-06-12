@@ -5,3 +5,7 @@
     size: 12px;
     font-size: 16px;
 }
+.block-content .image-resize {
+  display: block;
+  margin: 0 auto;
+}
