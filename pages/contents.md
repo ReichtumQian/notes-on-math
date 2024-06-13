@@ -14,6 +14,9 @@
 - 凸优化：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
 - 机器学习：[[机器学习]]。
 -
-- ## 其他资料
-- [算法导论](https://www.123pan.com/s/plj7Vv-rm223.html)
+- ## 算法
+- 资料：[算法导论](https://www.123pan.com/s/plj7Vv-rm223.html)
+- [[动态规划]]：将复杂的原问题拆分为多个简单的子问题，根据子问题的解得出原问题的解。
+-
+-
 -
