@@ -12,7 +12,7 @@
 - 控制理论：[[最优控制]]
 - ## 前沿应用数学
 - 凸优化：[Lectures on Convex Optimization](https://www.123pan.com/s/plj7Vv-Z3223.html)
-- 机器学习：[[机器学习]]。
+- 人工智能：[[机器学习]]、[[深度学习]]
 -
 - ## 算法
 - 资料：[算法导论](https://www.123pan.com/s/plj7Vv-rm223.html)
