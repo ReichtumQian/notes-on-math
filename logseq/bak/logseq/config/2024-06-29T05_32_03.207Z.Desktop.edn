@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["机器学习" "contents" "深度学习"]
 
  ;; Set flashcards interval.
  ;; Expected value:

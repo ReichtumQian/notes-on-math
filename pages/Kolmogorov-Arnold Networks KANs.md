@@ -1,0 +1,7 @@
+-
+- `KANs` 是基于 [[Kolmogorov-Arnold 表示定理]] 的神经网络。
+-
+- ## KANs 的构成
+-
+-
+-
