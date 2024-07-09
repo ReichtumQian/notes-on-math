@@ -9,7 +9,8 @@
     \frac{\partial^2 f}{\partial x_n \partial x_1}& \frac{\partial^2 f}{\partial x_n \partial x_2}&\cdots& \frac{\partial^2 f}{\partial x_n^2}
   \end{array}
   \right] $$
--
 - #+BEGIN_TIP
   Hessian 矩阵可被视为 n 元函数的二阶导数。
   #+END_TIP
+  
+- ## Hessian 矩阵的性质
