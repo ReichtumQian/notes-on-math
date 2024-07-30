@@ -1,1 +1,3 @@
 *.el
+logseq/bak/
+logseq/.recycle/
