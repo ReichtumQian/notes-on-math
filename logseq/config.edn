@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "数学分析" "机器学习" "深度学习" "优化问题"]
+ :favorites ["contents" "数学分析" "解析几何" "机器学习" "深度学习" "优化问题"]
 
  ;; Set flashcards interval.
  ;; Expected value:
